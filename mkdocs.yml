@@ -9,3 +9,4 @@ theme: readthedocs
 
 pages:
 - Home: index.md
+- Kubernetes: k8s.md
